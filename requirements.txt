@@ -1,0 +1,4 @@
+pyqt5
+scapy
+python-nmap
+reportlab
